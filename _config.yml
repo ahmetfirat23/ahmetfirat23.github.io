@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Ahmet Fırat Gamsız"
+locale                   : "tr-TR"
+title                    : "Ahmet Frat Gamsız"
 title_separator          : "-"
 name                     : &name "Ahmet Fırat Gamsız
 description              : &description "personal description"
