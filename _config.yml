@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "tr-TR"
-title                    : "Ahmet Frat Gamsız"
+locale                   : "en-US"
+title                    : "Ahmet Firat Gamsiz"
 title_separator          : "-"
-name                     : &name "Ahmet Fırat Gamsız
+name                     : &name "Ahmet Firat Gamsiz
 description              : &description "personal description"
 url                      : https://ahmetfirat23.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ahmet Fırat Gamsız"
+  name             : "Ahmet Firat Gamsiz"
   pronouns         : "he/his"  
   bio              : "Senior Computer Engineering Student, Undergraduate Research Assistant"
   location         : "Istanbul/ Turkey"
