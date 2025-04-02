@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-1
 venue: "Bogazici University"
-date: 2024
+date: 2024-04-01
 location: "Istanbul, Turkiye"
 ---
 
