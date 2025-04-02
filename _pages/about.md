@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Ahmet Firat Gamsiz, a senior computer engineering student at Bogazici University. My research interests are AI applications in education and creativity, specializing in language models. Currently, I am applying for funded MSc and PhD positions in these areas.
+Hi, I am Ahmet Fırat Gamsız, a senior computer engineering student at Bogazici University. My research interests are AI applications in education and creativity, specializing in language models. Currently, I am applying for funded MSc and PhD positions in these areas.
 
 I have been working in the CoLoRs lab for a year, led by Prof. Emre Uğur, where I work on LLM implementations of robotics. My current work is implementing a framework for task detection and inverse task planning with vision language models. 
 
