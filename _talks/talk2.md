@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk2
 venue: "Institute for Information and Language Processing, LMU"
-date: 2024
+date: 2024-08-01
 location: "Munich, Germany"
 ---
 
