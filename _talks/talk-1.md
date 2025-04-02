@@ -2,7 +2,7 @@
 title: "Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping"
 collection: talks
 type: "Talk"
-permalink: /talks/talk1
+permalink: /talks/talk-1
 venue: "Bogazici University"
 date: 2024
 location: "Istanbul, Turkiye"
